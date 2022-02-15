@@ -1,0 +1,6 @@
+Bật server ảnh trước tiên
+Cài thêm Eleatic search, Rabbit MQ, Redis
+
+localhost: 3000 - Client
+localhost: 8000 - admin shop
+localhost: 8001 - admin system

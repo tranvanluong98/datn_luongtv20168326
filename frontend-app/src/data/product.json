@@ -1,0 +1,115 @@
+[
+  {
+    "id": "1",
+    "category": "clothing",
+    "subCategory": "coat",
+    "name": "Jack & Jones Men's T-Shirt",
+    "rate": 4,
+    "reviewCount": 10,
+    "price": 59.99,
+    "discount": 20,
+    "new": true,
+    "quantity": 8,
+    "sex": "men",
+    "size": [
+      {
+        "name": "XXL"
+      },
+      {
+        "name": "XL"
+      },
+      {
+        "name": "L"
+      }
+    ],
+    "thumbImage": [
+      "/assets/images/products/clothes/1.png",
+      "/assets/images/products/clothes/2.png"
+    ],
+    "images": [
+      "/assets/images/products/clothes/1.png",
+      "/assets/images/products/clothes/2.png",
+      "/assets/images/products/clothes/3.png",
+      "/assets/images/products/clothes/4.png"
+    ],
+    "description": "",
+    "slug": "jack-jones-mens-t-shirt-1"
+  },
+  {
+    "id": "2",
+    "category": "clothing",
+    "subCategory": "coat",
+    "name": "Fold Over Collar Plain Blazers",
+    "rate": 5,
+    "price": 84,
+    "quantity": 6,
+    "isNew": true,
+    "sex": "men",
+    "variation": [
+      {
+        "color": "red",
+        "colorCode": "#8B0000"
+      },
+      {
+        "color": "blue",
+        "colorCode": "#4169E1"
+      }
+    ],
+    "thumbImage": [
+      "/assets/images/products/clothes/2.png",
+      "/assets/images/products/clothes/3.png"
+    ],
+    "images": [
+      "/assets/images/products/clothes/2.png",
+      "/assets/images/products/clothes/3.png",
+      "/assets/images/products/clothes/4.png",
+      "/assets/images/products/clothes/5.png"
+    ],
+    "description": "",
+    "slug": "fold-over-collar-plain-blazers-2"
+  },
+  {
+    "id": "3",
+    "category": "clothing",
+    "subCategory": "shirt",
+    "name": "Ivory Check Longline Tunic Shirt",
+    "rate": 5,
+    "price": 69,
+    "quantity": 12,
+    "sex": "men",
+    "size": [
+      {
+        "name": "XXL"
+      },
+      {
+        "name": "XL"
+      },
+      {
+        "name": "L"
+      }
+    ],
+    "variation": [
+      {
+        "color": "red",
+        "colorCode": "#8B0000"
+      },
+      {
+        "color": "blue",
+        "colorCode": "#4169E1"
+      }
+    ],
+    "thumbImage": [
+      "/assets/images/products/clothes/3.png",
+      "/assets/images/products/clothes/4.png"
+    ],
+    "images": [
+      "/assets/images/products/clothes/3.png",
+      "/assets/images/products/clothes/4.png",
+      "/assets/images/products/clothes/5.png",
+      "/assets/images/products/clothes/6.png"
+    ],
+    "description": "",
+    "slug": "ivory-check-longline-tunic-shirt-3"
+  }
+ 
+]

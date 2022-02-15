@@ -1,0 +1,16 @@
+.content {
+  padding-top: remCal(190);
+  @include mq(md) {
+    padding-top: remCal(150);
+  }
+  &.clear-top {
+    padding-top: remCal(120);
+    @include mq(md) {
+      padding-top: remCal(50);
+    }
+  }
+}
+.product-detail-one-top{
+  max-height: 800px;
+  margin-bottom: 6.375rem;
+}

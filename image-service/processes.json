@@ -1,0 +1,12 @@
+{
+    "apps": [
+      {
+        "name": "Image service",
+        "script": "./dist/index.js",
+        "env": {
+          "PORT": 5000
+        }
+      }
+    ]
+  }
+  
